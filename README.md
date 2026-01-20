@@ -3,7 +3,7 @@
 
 <div align="center">
 
-一个专注于白噪音播放的 Android 应用，帮助您放松、专注和入眠。
+一个专注于白噪音播放的 Android 应用，帮助你放松、专注和入眠。
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org/)
