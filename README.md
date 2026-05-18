@@ -1,7 +1,7 @@
  <h1 align="center"> 📱 XMSLEEP
   </h1>
 
-<div align="center">
+<div align="center">![Space Shooter](game.gif)
 
 一个专注于白噪音播放的 Android 应用，帮助您放松、专注和入眠。
 
